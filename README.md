@@ -1,7 +1,7 @@
 # Friday Night Funkin' - Fawn Engine (working title)
 <sub>Uh oh! Your tryin to kiss ur hot girlfri-... We're doing this again?</sub>
 
-Fawn Engine is an engine for Friday Night Funkin' which uses **none** of the original game's code. 
+Fawn Engine is an engine for Friday Night Funkin' which uses the original game's code as reference material, recoded in C++. 
 
 <sub>Can we even call this an engine?... A reimplementation? We'll figure that out later.</sub>
 
